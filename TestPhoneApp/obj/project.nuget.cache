@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j89yvWSB3L75mnVCuh9l13E/Kc3wgKK0Ng4VRvKVnustFWG45jSzX+oLviTAHbRuCY1T37+X5eEwcaqRHdsIuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\probook\\source\\repos\\TestPhoneApp\\TestPhoneApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\probook\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

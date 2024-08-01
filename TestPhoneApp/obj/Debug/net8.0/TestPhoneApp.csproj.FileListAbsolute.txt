@@ -1,0 +1,17 @@
+C:\Users\probook\source\repos\TestPhoneApp\bin\Debug\net8.0\TestPhoneApp.exe
+C:\Users\probook\source\repos\TestPhoneApp\bin\Debug\net8.0\TestPhoneApp.deps.json
+C:\Users\probook\source\repos\TestPhoneApp\bin\Debug\net8.0\TestPhoneApp.runtimeconfig.json
+C:\Users\probook\source\repos\TestPhoneApp\bin\Debug\net8.0\TestPhoneApp.dll
+C:\Users\probook\source\repos\TestPhoneApp\bin\Debug\net8.0\TestPhoneApp.pdb
+C:\Users\probook\source\repos\TestPhoneApp\obj\Debug\net8.0\TestPhoneApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\probook\source\repos\TestPhoneApp\obj\Debug\net8.0\TestPhoneApp.AssemblyInfoInputs.cache
+C:\Users\probook\source\repos\TestPhoneApp\obj\Debug\net8.0\TestPhoneApp.AssemblyInfo.cs
+C:\Users\probook\source\repos\TestPhoneApp\obj\Debug\net8.0\TestPhoneApp.csproj.CoreCompileInputs.cache
+C:\Users\probook\source\repos\TestPhoneApp\obj\Debug\net8.0\TestPhoneApp.dll
+C:\Users\probook\source\repos\TestPhoneApp\obj\Debug\net8.0\refint\TestPhoneApp.dll
+C:\Users\probook\source\repos\TestPhoneApp\obj\Debug\net8.0\TestPhoneApp.pdb
+C:\Users\probook\source\repos\TestPhoneApp\obj\Debug\net8.0\TestPhoneApp.genruntimeconfig.cache
+C:\Users\probook\source\repos\TestPhoneApp\obj\Debug\net8.0\ref\TestPhoneApp.dll
+C:\Users\probook\source\repos\TestPhoneApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\probook\source\repos\TestPhoneApp\obj\Debug\net8.0\TestPhoneApp.csproj.AssemblyReference.cache
+C:\Users\probook\source\repos\TestPhoneApp\obj\Debug\net8.0\TestPhon.5A80ABBA.Up2Date
